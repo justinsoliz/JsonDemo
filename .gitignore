@@ -1,0 +1,14 @@
+[Aa]ssets/
+[Dd]ebug/
+[Ll]ogs/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+*ReSharper.user
+_ReSharper.*/
+*.user
+*.suo
+*.sln.cache
+*.log
+*.bak
+*.[Pp]ublish.xml
